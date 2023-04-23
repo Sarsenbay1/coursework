@@ -1,0 +1,15 @@
+﻿  Курсовая.cpp
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(82,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(86,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(113,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(115,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(264,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(267,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(353,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(365,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(373,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(374,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(375,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(376,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\maksa\source\repos\Курсовая\Курсовая.cpp(447,23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Курсовая.vcxproj -> C:\Users\maksa\source\repos\Курсовая\x64\Debug\Курсовая.exe
